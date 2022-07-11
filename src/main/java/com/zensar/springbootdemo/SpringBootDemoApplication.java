@@ -21,7 +21,7 @@ public class SpringBootDemoApplication extends SpringBootServletInitializer{
 		System.out.println("Beta");
 		
 	}
-
+//check commit
 		
 	@Bean
 	
